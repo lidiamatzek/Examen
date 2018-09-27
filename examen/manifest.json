@@ -1,0 +1,11 @@
+{
+  "name": "RestantaWebDesign",
+  "short_name": "RWD",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "browser",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": null,
+  "splash_pages": null
+}
